@@ -96,3 +96,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ttphat204&theme=radical" alt="GitHub Streak" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ttphat204&theme=radical" alt="GitHub Profile Summary" />
 </p>
+
+---
+
+## 🛠️ Projects:
+
+### [Frontend and Backend for an Emart Website]
+- **Technologies:** ReactJS, MongoDB, Express, NodeJS
+- **Description:** A comprehensive platform for managing sales, including product management, user authentication, order processing, payments, and inventory tracking.
