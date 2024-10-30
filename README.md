@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img alt="Coding" width="60%" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" />
+  <img alt="Coding" width="60%" src="[https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg](https://steamuserimages-a.akamaihd.net/ugc/771652080668376433/2EC1413BCC15CB7144FF737EC25E2B5E0A3A192E/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)" />
 </p>
 
 ---
